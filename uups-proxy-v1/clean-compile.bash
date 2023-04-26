@@ -1,0 +1,1 @@
+hh clean && hh compile
